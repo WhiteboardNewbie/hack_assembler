@@ -10,7 +10,7 @@ The assembler converts `.asm` files into `.hack` binary files executable on the 
 
 - Converts **A-instructions** (`@value`) and **C-instructions** (`dest=comp;jmp`) to 16-bit binary.
 - Handles **labels** and **variables** automatically with a symbol table.
-- Produces clean `.hack` output files ready for the Hack CPU simulator.
+- Produces clean `.hack` output files which can be ran on the [Hack CPU simulator](https://nand2tetris.github.io/web-ide/cpu).
 
 ## How to use
 
