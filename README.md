@@ -1,4 +1,4 @@
-# Nand2Tetris Part 1 — Assembler
+# Overview
 
 This repository contains a fully functional assembler for the Hack assembly language.
 
